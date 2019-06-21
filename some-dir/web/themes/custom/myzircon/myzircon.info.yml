@@ -1,0 +1,11 @@
+name: 'myzircon'
+description: 'Myzircon custom starter theme'
+core: 8.x
+type: theme
+base theme: zircon
+libraries:
+  -myzircon/global-css
+  -myzircon/global-js
+
+
+  
